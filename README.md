@@ -5,8 +5,9 @@
 2. ToDo list
 
 
-### LSTM In Pyhton Compared with Moving Average  
+### LSTM In Pyhton    
 - Dataset from : [New York Stock Exchange S&P 500 companies historical prices with fundamental data](https://www.kaggle.com/dgawlik/nyse)
+![compared with MA](http://github.com//YangQingQingKerry//lstm_cpp//raw//master//image//lstm.png)
 
 
 #### Dataset consists of following files:
